@@ -193,8 +193,6 @@
   font-size: 44px;
   line-height: 52px;
   text-align: center;
-  margin-top: 100px;
-  margin-bottom: 80px;
   width: 100%;
 }
 
@@ -227,13 +225,14 @@
 }
 
 .form__input {
+  border: #838383 1px solid;
   border-radius: 4px;
   box-sizing: border-box;
   height: 60px;
   font-family: "Inter", Arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
-  border: #838383 1px solid;
+  padding: 15px 20px;
   width: 100%;
 }
 
